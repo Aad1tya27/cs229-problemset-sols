@@ -1,1 +1,1 @@
-# cs229-problemset-sols
+# CS229 Problem Set Solutions
